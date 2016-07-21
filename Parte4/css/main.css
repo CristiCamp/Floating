@@ -1,0 +1,20 @@
+.bloque{
+	float: left;
+	padding: 50px 50px;
+	width: 60px;
+	height: 20px;
+}
+.clearfix{
+	overflow: auto;
+	border: 1px solid grey;
+
+}
+.yellow{
+	background-color: #F3F781;
+}
+.blue{
+	background-color: #5858FA;
+}
+.red{
+	background-color: #FA5858;
+}
